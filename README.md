@@ -1,7 +1,7 @@
 ## Swiggy_Banglore_Outlet_Data_Analysis
 Hello all,
 
-My name is SM Zeyauddin ,Business intelligence  intern at iNeuron.ai. My project is about "Analyzing Swiggy".
+My name is SM Zeyauddin ,Business intelligence  intern at PW(PhysicsWallah) . My project is about "Analyzing Swiggy".
 
 Given dataset-- https://drive.google.com/file/d/1FwL6jfwfL5Na_6Pacbv5rjrz9zu5h_i-/view
 
